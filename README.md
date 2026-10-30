@@ -38,7 +38,7 @@ This repository includes an automatic in-memory MongoDB engine. You can clone an
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/your-username/crm-api-assignment.git
+git clone https://github.com/Gaurxvv/crm-api-assignment.git
 cd crm-api-assignment
 npm install
 ```
